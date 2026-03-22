@@ -7,3 +7,4 @@ YOLOv10 → Competitive performance
 RT-DETR → Transformer-based detection
 
 Final Model Used: YOLOv8 (highest accuracy and stability)
+<img width="288" height="246" alt="image" src="https://github.com/user-attachments/assets/b372f67f-9367-4132-9b4b-4b1abc6b7f7d" />
